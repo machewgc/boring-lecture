@@ -5,3 +5,17 @@
 span {
   color: blue;
 }
+
+h2 {
+  width: 50%;
+  text-align: center;
+}
+
+img {
+  float: left;
+}
+
+.column {
+  width: 30%;
+  float:right;
+}
